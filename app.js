@@ -27,7 +27,7 @@ const quiz = [
             'output',
             'outlet'  
         ],
-        correct: 'output'
+        correct: 'output'  
     }
 ];
 

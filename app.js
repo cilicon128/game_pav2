@@ -4,30 +4,30 @@ const quiz = [
         answers: [
             'project',
             'program',
-            'plan',
-            'schedule'  
+            'provido',
+            'probably'  
         ],
         correct: 'project'
     },
     {
-        question: 'ゲームソフト市場、最も売れたソフトは次の内どれ？',
+        question: '組や班とは？',
         answers: [
-            'インベーダー',
-            'ギャラクシカ',
-            'スーパーマリオ',
-            'パックマン'  
+            'tea',
+            'teacher',
+            'tear',
+            'team'  
         ],
-        correct: 'スーパーマリオ'
+        correct: 'team'
     },
     {
-        question: 'ノートPCで、最も売れたノートPCは次の内どれ？',
+        question: '入力の反対語とは？',
         answers: [
-            'SONYVAIO',
-            'panasonicLetsnote',
-            'NECLAVIE',
-            'MacBookPro'  
+            'input',
+            'import',
+            'output',
+            'outlet'  
         ],
-        correct: 'panasonicLetsnote'
+        correct: 'output'
     }
 ];
 

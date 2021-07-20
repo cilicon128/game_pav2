@@ -34,7 +34,7 @@ const quiz = [
 const quizLength = quiz.length;
 let quizIndex = 0;
 let score = 0;
-
+ 
 
 const $button = document.getElementsByTagName('button')
 const buttonLength = $button.length;

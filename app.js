@@ -1,6 +1,6 @@
 const quiz = [
     {
-        question: '事業とはどれ？',
+        question: '事業とは？',
         answers: [
             'project',
             'program',

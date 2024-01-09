@@ -12,42 +12,42 @@ const quiz = [
     {
         question: 'CS向上に取り組んでいますか？　　',
         answers: [
-            'はい、積極的に。',
-            'いいえ',
+            'はい、積極的に',
+            'いいえ、特には',
             'はい、少しだけ',
             'はい、とりあえず'  
         ],
-        correct: 'diverse'
+        correct: 'はい、積極的に'
     },
     {
-        question: '拒否する　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' We _______ their idea.',
+        question: 'お客様に、ありがとうと言われたら嬉しいですか？',
         answers: [
-            'region',
-            'rejoice',
-            'regret',
-            'reject'  
+            'はい、とても',
+            'いいえ、特には',
+            'はい、少しだけ',
+            'はい、当たり前のこと'  
         ],
-        correct: 'reject'  
+        correct: 'はい、とても'  
     },
     {
-        question: '申し込む　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' I _______ for the job.',
+        question: 'URからURに住み替えのお客様は、どうですか？',
         answers: [
-            'applied',
-            'application',
-            'applause',
-            'applicant'  
+            'はい、ありがたいお得意様です',
+            'いいえ、特には',
+            'はい、少しだけ',
+            'はい、URしか他に行くところがないので'  
         ],
-        correct: 'applied'  
+        correct: 'はい、ありがたいお得意様です'  
     },
     {
-        question: '急がせる　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' I ______ you to choose.',
+        question: 'お客様の満足度を上げるとどうなりますか？',
         answers: [
-            'urban',
-            'urine',
-            'urge',
-            'urn'  
+            '特に、効果はない',
+            '喜ばれるが、その時だけ',
+            '自分の印象が好くなる',
+            'URの価値が上がりリピーターや紹介が増える'  
         ],
-        correct: 'urge'  
+        correct: 'URの価値が上がりリピーターや紹介客が増える'  
     },
     {
         question: '後悔する　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' I ______ I cannot help you',

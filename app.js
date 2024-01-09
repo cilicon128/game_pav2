@@ -50,34 +50,34 @@ const quiz = [
         correct: 'URの価値が上がりリピーターや紹介客が増える'  
     },
     {
-        question: '後悔する　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' I ______ I cannot help you',
+        question: 'CS向上のために大切なことはなんですか？',
         answers: [
-            'regret',
-            'region',
-            'rejoice',
-            'reject'  
+            '会社の指示通りにすることが大切',
+            '自分の思いを伝えることが大事',
+            'お客様の期待値を超える接客を心がける',
+            '常に自分の効率を考えて接客する'  
         ],
-        correct: 'regret'
+        correct: 'お客様の期待値を超える接客を心がける'
     },
     {
-        question: '本物の　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' This is a ________ gold watch.',
+        question: 'CS調査の評価はどう思いますか？',
         answers: [
-            'author',
-            'authentic',
-            'authority',
-            'authenticity'  
+            'C評価だけは避けたい',
+            'A評価を超えたい',
+            'なるべくA評価を取りたい',
+            '調査員に当たりたくない'  
         ],
-        correct: 'authentic'
+        correct: 'A評価を超えたい'
     },
     {
-        question: '禁止する　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' They _______ smoking here.',
+        question: '顧客満足度はなぜ重要か？',
         answers: [
-            'form',
-            'forward',
-            'forget',
-            'forbid'  
+            '自社の取り組みの物差しとなる',
+            '自分の評価の物差しとなる',
+            'クレームを減らすための物差しとなる',
+            '上司に怒られないためだけ'  
         ],
-        correct: 'forbid'
+        correct: '自社の取り組みの物差しとなる'
     },
     {
         question: '義務　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' He has an _______ to the company.',

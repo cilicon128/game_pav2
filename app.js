@@ -1,6 +1,6 @@
 const quiz = [
     {
-        question: 'CS(略称)の正解はどれ？　' + ' ⏩ 　' + ' ex.　' + ' ' + ' I _______ to fight.',
+        question: 'CS(略称)の正解はどれ？　',
         answers: [
             'employee satisfaction',
             'customer satisfaction',
@@ -10,12 +10,12 @@ const quiz = [
         correct: 'customer satisfaction'
     },
     {
-        question: '多様な　　' + ' ⏩ 　' + ' ex.　' + ' ' + ' There are _______ people in the USA.',
+        question: 'CS向上に取り組んでいますか？　　',
         answers: [
-            'divde',
-            'diverse',
-            'divorce',
-            'divine'  
+            'はい、積極的に。',
+            'いいえ',
+            'はい、少しだけ',
+            'はい、とりあえず'  
         ],
         correct: 'diverse'
     },
